@@ -8,5 +8,5 @@ if (number > 0 && number <= 1000000) {
     } document.write(`Sum of numbers up to ${number} is ${Sum}`)
 
 } else {
-    document.write("Number is invalid")
+    alert("Number is Invalid Please Refresh the page")
 }
